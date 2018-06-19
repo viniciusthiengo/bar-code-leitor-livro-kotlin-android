@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fl_scanner"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentTop="true"
+    android:background="@color/colorPrimary"
+    tools:context=".FullscreenActivity">
+
+    <me.dm7.barcodescanner.zxing.ZXingScannerView
+        android:id="@+id/z_xing_scanner"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageButton
+        android:id="@+id/ib_fullscreen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|end"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/image_button_black"
+        android:contentDescription="@string/close_fullscreen_mode"
+        android:onClick="closeFullscreen"
+        android:padding="8dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_fullscreen_exit_white_24dp"
+        android:tint="@android:color/white" />
+
+    <ImageButton
+        android:id="@+id/ib_flashlight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="57dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/image_button_black"
+        android:contentDescription="@string/turn_on_flash"
+        android:onClick="flashLight"
+        android:padding="8dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_flashlight_off_white_24dp"
+        android:tint="@android:color/white" />
+
+    <ImageButton
+        android:id="@+id/ib_lock"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginRight="8dp"
+        android:background="@drawable/image_button_black"
+        android:contentDescription="@string/lock_code_reader"
+        android:onClick="lockUnlock"
+        android:padding="8dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/ic_lock_open_white_24dp"
+        android:tint="@android:color/white" />
+</FrameLayout>

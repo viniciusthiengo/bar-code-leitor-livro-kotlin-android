@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:2:1-38:12
+MERGED from [pub.devrel:easypermissions:1.2.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/5f1279d80c3625a3466ef98fb02b9e03/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/AndroidManifest.xml:17:1-22:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/e7575adc0b863d44ccdc70e308649767/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2b3b8519f6d96ed7c5d9d403fafe06a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/620c77a367a18506cb3a22b5b9435c4a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5fb9d1de4056eb5494d2173cddaa3ebe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1b9508bd0eface0d45a59ef614b1ea74/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fb31339e4c246fc735a48d05055594c4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/19a0eafe6ab8a01740f2856f63dcc5f1/AndroidManifest.xml:17:1-22:12
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/c42535a26fef87e59193cbcefc9c84e5/AndroidManifest.xml:2:1-13:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ef4cf243e70679d8ba4c4db6fb3646e3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9f994660e9615271eea379ab12ec344f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd5f2a86e3843f05714d62e5aee10505/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a9b01d86d9e35e07e364e678dc7974fd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:2:1-38:12
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:2:1-38:12
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:6:5-69
+	android:name
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:6:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:8:5-10:35
+	android:required
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:10:9-32
+	android:name
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:9:9-47
+application
+ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:12:5-36:19
+MERGED from [pub.devrel:easypermissions:1.2.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/5f1279d80c3625a3466ef98fb02b9e03/AndroidManifest.xml:11:5-17:19
+MERGED from [pub.devrel:easypermissions:1.2.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/5f1279d80c3625a3466ef98fb02b9e03/AndroidManifest.xml:11:5-17:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/e7575adc0b863d44ccdc70e308649767/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/e7575adc0b863d44ccdc70e308649767/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/c42535a26fef87e59193cbcefc9c84e5/AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/c42535a26fef87e59193cbcefc9c84e5/AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:16:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:14:9-43
+	android:roundIcon
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:19:9-40
+activity#thiengo.com.br.barcodeleitor.MainActivity
+ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:screenOrientation
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:27:27-74
+activity#thiengo.com.br.barcodeleitor.FullscreenActivity
+ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:31:9-34:54
+	android:configChanges
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:33:13-59
+	android:theme
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:34:13-51
+	android:name
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml:32:13-47
+uses-sdk
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+MERGED from [pub.devrel:easypermissions:1.2.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/5f1279d80c3625a3466ef98fb02b9e03/AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:1.2.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/5f1279d80c3625a3466ef98fb02b9e03/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/e7575adc0b863d44ccdc70e308649767/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/zxing-1.9.8.aar/e7575adc0b863d44ccdc70e308649767/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2b3b8519f6d96ed7c5d9d403fafe06a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/2b3b8519f6d96ed7c5d9d403fafe06a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/620c77a367a18506cb3a22b5b9435c4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/620c77a367a18506cb3a22b5b9435c4a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5fb9d1de4056eb5494d2173cddaa3ebe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5fb9d1de4056eb5494d2173cddaa3ebe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1b9508bd0eface0d45a59ef614b1ea74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1b9508bd0eface0d45a59ef614b1ea74/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fb31339e4c246fc735a48d05055594c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/fb31339e4c246fc735a48d05055594c4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/19a0eafe6ab8a01740f2856f63dcc5f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/19a0eafe6ab8a01740f2856f63dcc5f1/AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/c42535a26fef87e59193cbcefc9c84e5/AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/c42535a26fef87e59193cbcefc9c84e5/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ef4cf243e70679d8ba4c4db6fb3646e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ef4cf243e70679d8ba4c4db6fb3646e3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9f994660e9615271eea379ab12ec344f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9f994660e9615271eea379ab12ec344f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd5f2a86e3843f05714d62e5aee10505/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bd5f2a86e3843f05714d62e5aee10505/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a9b01d86d9e35e07e364e678dc7974fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/a9b01d86d9e35e07e364e678dc7974fd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+		ADDED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/AndroidManifest.xml
+activity#pub.devrel.easypermissions.AppSettingsDialogHolderActivity
+ADDED from [pub.devrel:easypermissions:1.2.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/5f1279d80c3625a3466ef98fb02b9e03/AndroidManifest.xml:12:9-16:66
+	android:label
+		ADDED from [pub.devrel:easypermissions:1.2.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/5f1279d80c3625a3466ef98fb02b9e03/AndroidManifest.xml:15:13-29
+	android:exported
+		ADDED from [pub.devrel:easypermissions:1.2.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/5f1279d80c3625a3466ef98fb02b9e03/AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [pub.devrel:easypermissions:1.2.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/5f1279d80c3625a3466ef98fb02b9e03/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [pub.devrel:easypermissions:1.2.0] /Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/easypermissions-1.2.0.aar/5f1279d80c3625a3466ef98fb02b9e03/AndroidManifest.xml:13:13-86
