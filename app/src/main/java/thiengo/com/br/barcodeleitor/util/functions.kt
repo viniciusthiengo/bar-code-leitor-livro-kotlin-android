@@ -21,11 +21,11 @@ fun unrecognizedCode( context: Context, callbackClear: ()->Unit = {} ){
  * Para que seja possível lançar um sinal sonoro logo
  * após a leitura de algum código de barra.
  * */
-fun notification(context: Context){
+/*fun notification(context: Context){
     try {
         val notification = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION)
-        val ringtone = RingtoneManager.getRingtone(context.getApplicationContext(), notification)
+        val ringtone = RingtoneManager.getRingtone(context.applicationContext, notification)
         ringtone.play()
     }
     catch(e: Exception) { }
-}
+}*/

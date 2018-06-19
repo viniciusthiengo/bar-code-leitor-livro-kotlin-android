@@ -44,10 +44,6 @@
         "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/res/drawable/abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
-    },
-    {
         "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
     },
@@ -552,10 +548,6 @@
         "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
     {
-        "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
-    },
-    {
         "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -570,14 +562,6 @@
     {
         "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
-    },
-    {
-        "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
-    },
-    {
-        "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
     },
     {
         "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
@@ -878,10 +862,6 @@
     {
         "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
-    },
-    {
-        "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
     },
     {
         "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-mdpi_background.jpg.flat",
@@ -1308,10 +1288,6 @@
         "source": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/src/main/res/drawable-xhdpi/background.jpg"
     },
     {
-        "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
-    },
-    {
         "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
         "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/res/color-v23/abc_tint_btn_checkable.xml"
     },
@@ -1454,10 +1430,6 @@
     {
         "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
         "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/3422b536c6232b1e6d59e4334cc9ab50/res/drawable/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
     },
     {
         "merged": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_fullscreen_white_24dp.png.flat",

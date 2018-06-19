@@ -123,10 +123,10 @@ class FullscreenActivity : AppCompatActivity(),
             return
         }
 
-        proccessBarcodeResult( result )
+        processBarcodeResult( result )
     }
 
-    fun proccessBarcodeResult( result: Result ){
+    private fun processBarcodeResult(result: Result ){
         val text = result.text
         val barcodeName = result.barcodeFormat.name
 
@@ -140,7 +140,7 @@ class FullscreenActivity : AppCompatActivity(),
      * Volta para a atividade principal sempre com o isLightened
      * fazendo parte do conteúdo de resposta.
      * */
-    fun finish(intent: Intent, resultAction: Int) {
+    private fun finish(intent: Intent, resultAction: Int) {
         intent.putExtra(Database.KEY_IS_LIGHTENED, ib_flashlight.tag as Boolean)
         setResult( resultAction, intent )
         finish()

@@ -187,10 +187,10 @@ class MainActivity : AppCompatActivity(),
          * não seja invocado para um mesmo código de barra
          * lido seguidas vezes.
          * */
-        val resultSaved = Database.getSavedResult(this)
+        /*val resultSaved = Database.getSavedResult(this)
         if( resultSaved == null || !resultSaved.text.equals(text, true) ){
             notification(this)
-        }
+        }*/
 
         val result = Result(
             text,
