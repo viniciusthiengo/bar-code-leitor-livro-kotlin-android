@@ -260,15 +260,15 @@ class MainActivity : AppCompatActivity(),
 
     /* *** Algoritmos de listeners de clique *** */
 
-    fun shareContent(view: View){
-        val path = Uri.parse("android.resource://thiengo.com.br.barcodeleitor/" + R.drawable.ic_delete_black_24dp)
+    //fun shareContent(view: View){
+        //val path = Uri.parse("android.resource://thiengo.com.br.barcodeleitor/" + R.drawable.ic_delete_black_24dp)
 
-        val shareIntent = Intent()
-        shareIntent.action = Intent.ACTION_SEND
-        shareIntent.putExtra(Intent.EXTRA_STREAM, path)
-        shareIntent.type = "image/*"
-        startActivity(Intent.createChooser(shareIntent, resources.getText(R.string.share)))
-    }
+        //val shareIntent = Intent()
+        //shareIntent.action = Intent.ACTION_SEND
+        //shareIntent.putExtra(Intent.EXTRA_STREAM, path)
+        //shareIntent.type = "image/*"
+        //startActivity(Intent.createChooser(shareIntent, resources.getText(R.string.share)))
+    //}
 
     /*
      * Método para limpar a interface do usuário.

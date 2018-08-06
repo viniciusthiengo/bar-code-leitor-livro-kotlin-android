@@ -160,7 +160,7 @@
                     android:textStyle="bold"
                     android:visibility="gone" />
 
-                <ImageButton
+                <!-- ImageButton
                     android:id="@+id/ib_share"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
@@ -175,7 +175,7 @@
                     android:padding="8dp"
                     android:scaleType="fitCenter"
                     android:src="@drawable/ic_delete_black_24dp"
-                    android:tint="@android:color/white" />
+                    android:tint="@android:color/white" / -->
 
                 <ImageButton
                     android:id="@+id/ib_clear"
@@ -183,8 +183,7 @@
                     android:layout_height="wrap_content"
                     android:layout_alignParentEnd="true"
                     android:layout_alignParentRight="true"
-                    android:layout_below="@+id/ib_share"
-                    android:layout_marginTop="16dp"
+                    android:layout_alignTop="@+id/tv_content"
                     android:layout_marginLeft="16dp"
                     android:layout_marginStart="16dp"
                     android:background="@drawable/image_button_delete"
