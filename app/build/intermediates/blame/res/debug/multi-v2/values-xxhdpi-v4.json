@@ -4,7 +4,7 @@
             "outputFile": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/a3f5fd8c895c330311ae319ef3bfbe79/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/eac54ba3869ad77efe2f7e9a9a513b34/res/values-xxhdpi-v4/values-xxhdpi-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

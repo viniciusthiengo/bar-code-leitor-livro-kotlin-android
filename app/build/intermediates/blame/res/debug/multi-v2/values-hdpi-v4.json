@@ -4,17 +4,7 @@
             "outputFile": "/Users/viniciusthiengo/Desktop/Applications/BarCodeLeitor/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/a3f5fd8c895c330311ae319ef3bfbe79/res/values-hdpi-v4/values-hdpi-v4.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,113",
-                        "endColumns": "57,55",
-                        "endOffsets": "108,164"
-                    }
-                },
-                {
-                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/692aa1882c7e07f66306ea7e36ab8d70/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/702de77fe9fd56ab75dd1b6dc9f5ad7d/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "8",
                         "endColumns": "13",
                         "endOffsets": "441"
+                    }
+                },
+                {
+                    "source": "/Users/viniciusthiengo/.gradle/caches/transforms-1/files-1.1/core-1.9.8.aar/eac54ba3869ad77efe2f7e9a9a513b34/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
                     }
                 }
             ]
